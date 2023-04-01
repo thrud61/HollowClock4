@@ -1,4 +1,4 @@
-//  hollow clock 4 c++ port of https://www.thingiverse.com/thing:5636482
+//  hollow clock 4 c++ port of https://www.thingiverse.com/thing:5808550
 //  ported the original micropython pico software to c++ with pico sdk
 //  modified the tick control so that it is smoother, otherwise pin compatible
 //  with the micropython code and original project
